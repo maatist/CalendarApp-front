@@ -1,2 +1,4 @@
 # calendar-front
-Proyecto CalendarApp en react usando redux del curso de fernando herrera
+Proyecto CalendarApp en react usando redux 
+
+https://calendario-msast.herokuapp.com/
